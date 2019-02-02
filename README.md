@@ -5,3 +5,5 @@ Currently only supports sending messeages to email accounts or AT&T customers.
 To send messages to other cell phone carriers change line #165. See https://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/ for cell phone carriers.
 
 To allow your gmail to be connected you must change your gmail setting to allow less secure apps. See https://devanswers.co/allow-less-secure-apps-access-gmail-account/
+
+Additional changes in the code are needed to connect to your Gmail account as well as a local database you create as well as the table name.
