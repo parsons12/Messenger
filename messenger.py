@@ -163,7 +163,7 @@ def sendmail(send_to, message):
     try:
         if(isinstance(send_to, int)):
             send_to = str(send_to) + "@mms.att.net"
-        server.sendmail('2692286305@mms.att.net', send_to, message)
+        server.sendmail('<EnterGMAIL>', send_to, message)
     except:
             print("\nUnable to send mail to this address\n",send_to)
 
