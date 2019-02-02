@@ -8,5 +8,5 @@ To allow your gmail to be connected you must change your gmail setting to allow 
 
 Additional changes in the code are needed to connect to your Gmail account as well as a local database you create as well as the table name(I recommend naming the table people so you don't have to change the code).  Example of the table below:
 
-![Database:](/user/desktop/img1.png)
-![Setup:](/user/desktop/img2.png)
+![Database:](https://raw.githubusercontent.com/parsons12/Messenger/img1.png)
+![Setup:](https://raw.githubusercontent.com/parsons12/Messenger/img2.png)
